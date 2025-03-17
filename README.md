@@ -2,6 +2,8 @@
 
 Here is wifi speed test for Radxa CM5 Module with RTL8852BE (Radxa WIFI Module). 
 
+<img width="655" alt="wifi module" src="https://github.com/user-attachments/assets/f3be910d-8bf3-439e-a6a8-4b0eedd4bbfb" />
+
 ## 1. Configure Wifi Hotspot
 
 <img width="1113" alt="ID" src="https://github.com/user-attachments/assets/b0003320-b176-44ce-b022-e8cfd45f0023" />
@@ -14,7 +16,7 @@ Here is wifi speed test for Radxa CM5 Module with RTL8852BE (Radxa WIFI Module).
 
 ## 2.  Enjoy your device
 
-Coming
+<img width="1007" alt="wifi speed" src="https://github.com/user-attachments/assets/b616fab7-ded3-43c7-a4b5-9bf1c7794bdf" />
 
 (Device Speed)
 
